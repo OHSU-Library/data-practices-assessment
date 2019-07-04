@@ -1,6 +1,7 @@
 # local stuff
 secret.py
 fulltext/
+.dpa-venv/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
